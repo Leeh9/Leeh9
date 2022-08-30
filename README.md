@@ -7,7 +7,5 @@
 ![Leeh9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leeh9&show_icons=true&theme=dracula)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leeh9&layout=compact&theme=dracula)
-
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gusrnss)]
   
 </div>
