@@ -3,14 +3,14 @@
 
 ## Hi there 👋
 
-**`-` Computer Science**  
-**`-` SSAFY 8th**  
+**`-` SSAFY 8th**
+**`-` Computer Science**    
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeh9%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=gusrnss)](https://solved.ac/gusrnss)
 
 ## Project
-
+📗 **FOREST - 온라인 학습지 통합 관리 서비스(2023.04)**  
 💖 **HE:RE - NFT 헌혈증서 플랫폼(2023.04)🏆**  
 🍳 **Coogether - 함께 요리하는 라이브 쿠킹 플랫폼(2023.02)**   
 🏡 **Daebang - 대전에 처음 정착하는 청년들을 위한 정보 안내 도우미(2022.11)🏆**  
