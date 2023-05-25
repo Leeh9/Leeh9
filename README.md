@@ -2,7 +2,7 @@
 
 
 ## Hi there 👋
-
+**`-` KT DS**  
 **`-` SSAFY 8th**  
 **`-` Computer Science**    
 
