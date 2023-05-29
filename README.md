@@ -17,10 +17,10 @@
 🧑🏻‍ **들어줄게 - 속마음을 털어놓을 수 있는 AI 음성 챗봇(2021.09)**  
 
 ## Awards
-**`-` 🥈2023 미래산업 인재육성 컨퍼런스 VALUE UP 프로젝트 공모전 2등**    
-**`-` 🥇SSAFY 자율프로젝트 1등**    
-**`-` 🥈SSAFY 특화프로젝트 2등**    
-**`-` 🥇SSAFY 관통프로젝트 1등** 
+**`-` 🥈2023 미래산업 인재육성 컨퍼런스 VALUE UP 프로젝트 공모전 2위**    
+**`-` 🥇SSAFY 자율프로젝트 1위**    
+**`-` 🥈SSAFY 특화프로젝트 2위**    
+**`-` 🥇SSAFY 관통프로젝트 1위** 
 
 ![Leeh9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leeh9&show_icons=true&theme=dracula)
 
