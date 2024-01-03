@@ -11,8 +11,7 @@
 
 ## Project
 
-**🚖 AMAM - 나의 국내 한 달 살이 여행 도우미 (2023.06 ~ 개발ing)**  
-
+**🚖 AMAM - 나의 국내 한 달 살이 여행 도우미 (2023.06 ~ 11)🏆**  
 **[📗](https://github.com/EDU-Forest/FOREST) FOREST - 온라인 학습지 통합 관리 서비스(2023.05)🏆**  
 **[💖](https://github.com/NFT-Platform-HERE/HERE) HE:RE - NFT 헌혈증서 플랫폼(2023.04)🏆🏆**  
 **[🍳](https://github.com/Leeh9/Coogether) Coogether - 함께 요리하는 라이브 쿠킹 플랫폼(2023.02)**   
@@ -20,6 +19,7 @@
 🧑🏻‍ **들어줄게 - 속마음을 털어놓을 수 있는 AI 음성 챗봇(2021.09)**  
 
 ## Awards
+**`-` 🥉2023 관광데이터 활용 공모전 장려상**    
 **`-` 🥇2023 미래산업 인재육성 컨퍼런스 VALUE UP 프로젝트 공모전 금상**    
 **`-` 🥇SSAFY 자율프로젝트 1위**    
 **`-` 🥈SSAFY 특화프로젝트 2위**    
