@@ -2,7 +2,7 @@
 
 
 ## Hi there 👋 
-**`-` kt ds (AI Care)**  
+**`-` Backend Developer**  
 **`-` SSAFY 8th**  
 **`-` Computer Science**    
 
