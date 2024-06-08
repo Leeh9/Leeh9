@@ -9,8 +9,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeh9%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=gusrnss)](https://solved.ac/gusrnss)
 
-## Project
+## Certificate
+**`-` 정보처리기사**  
+**`-` SQLD**  
+**`-` AWS Developer Associate(DVA-C02)**
 
+## Project
 **🚖 AMAM - 나의 국내 한 달 살이 여행 도우미 (2023.06 ~ 11)🏆**  
 **[📗](https://github.com/EDU-Forest/FOREST) FOREST - 온라인 학습지 통합 관리 서비스(2023.05)🏆**  
 **[💖](https://github.com/NFT-Platform-HERE/HERE) HE:RE - NFT 헌혈증서 플랫폼(2023.04)🏆🏆**  
