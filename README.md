@@ -15,6 +15,7 @@
 **`-` AWS Developer Associate(DVA-C02)**
 
 ## Project
+**💡Goose - 개인 프로젝트 (2024.10~)**  
 **🚖 AMAM - 나의 국내 한 달 살이 여행 도우미 (2023.06 ~ 11)🏆**  
 **[📗](https://github.com/EDU-Forest/FOREST) FOREST - 온라인 학습지 통합 관리 서비스(2023.05)🏆**  
 **[💖](https://github.com/NFT-Platform-HERE/HERE) HE:RE - NFT 헌혈증서 플랫폼(2023.04)🏆🏆**  
