@@ -18,7 +18,7 @@
 **💡Goose - 개인 프로젝트 (2024.10~)**  
 **🚖 AMAM - 나의 국내 한 달 살이 여행 도우미 (2023.06 ~ 11)🏆**  
 **[📗](https://github.com/EDU-Forest/FOREST) FOREST - 온라인 학습지 통합 관리 서비스(2023.05)🏆**  
-**[💖](https://github.com/NFT-Platform-HERE/HERE) HE:RE - NFT 헌혈증서 플랫폼(2023.04)🏆🏆**  
+**[💖](https://github.com/NFT-Platform-HERE/HERE) HE:RE - 블록체인을 활용한 NFT 헌혈증서 플랫폼(2023.04)🏆🏆**  
 **[🍳](https://github.com/Leeh9/Coogether) Coogether - 함께 요리하는 라이브 쿠킹 플랫폼(2023.02)**   
 **[🏡](https://github.com/Leeh9/Daebang) Daebang - 대전에 처음 정착하는 청년들을 위한 정보 안내 도우미(2022.11)🏆**  
 🧑🏻‍ **들어줄게 - 속마음을 털어놓을 수 있는 AI 음성 챗봇(2021.09)**  
