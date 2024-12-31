@@ -1,6 +1,3 @@
-
-
-
 ## Hi there 👋 
 **`-` Backend Developer**  
 **`-` SSAFY 8th**  
@@ -9,13 +6,14 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeh9%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=gusrnss)](https://solved.ac/gusrnss)
 
+## [Portfolio](https://hyun9.me/)
+
 ## Certificate
 **`-` 정보처리기사**  
 **`-` SQLD**  
 **`-` AWS Developer Associate(DVA-C02)**
 
 ## Project
-**💡Goose - 개인 프로젝트 (2024.10~)**  
 **🚖 AMAM - 나의 국내 한 달 살이 여행 도우미 (2023.06 ~ 11)🏆**  
 **[📗](https://github.com/EDU-Forest/FOREST) FOREST - 온라인 학습지 통합 관리 서비스(2023.05)🏆**  
 **[💖](https://github.com/NFT-Platform-HERE/HERE) HE:RE - 블록체인을 활용한 NFT 헌혈증서 플랫폼(2023.04)🏆🏆**  
@@ -33,6 +31,6 @@
 
 ![Leeh9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leeh9&show_icons=true&theme=dracula)
 
-### 💥 Tech Stack 
+## Tech Stack 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
