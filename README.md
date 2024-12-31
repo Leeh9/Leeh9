@@ -6,7 +6,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeh9%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=gusrnss)](https://solved.ac/gusrnss)
 
-## [Portfolio](https://hyun9.me/)
+## Portfolio
 
 ## Certificate
 **`-` 정보처리기사**  
